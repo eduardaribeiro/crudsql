@@ -14,6 +14,7 @@ app.listen(PORT, () => {
 
 
 
+
 //  app.get('/produtos/:id', (req,res) => {
 //     const id = req.params.id;
 //     connection.query( `SELECT * FROM tb_produtos WHERE id = ${id}`,(error,results) => {
